@@ -1,0 +1,33 @@
+nav {
+  width: 80%;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 10px;
+  border-radius: 5px !important;
+}
+
+div.navbar-header {
+  margin-left: 30px;
+}
+
+div.column {
+  text-align: center;
+}
+
+div.jumbotron,
+div.column,
+ul.nav.nav-tabs,
+div.tab-pane {
+  margin-top: 30px;
+}
+
+/* Reduce height in navbar */
+/*.navbar-nav > li > a, .navbar-brand {
+    padding-top:5px !important;
+    padding-bottom:0 !important;
+    height: 30px;
+    font-size: 15px;
+}
+.navbar {
+  min-height:30px !important;
+}*/
